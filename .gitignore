@@ -1,0 +1,23 @@
+# Private keys — NEVER commit these
+*.pkey
+*.private.json
+.claude
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Flow emulator state
+flowdb/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/settings.json

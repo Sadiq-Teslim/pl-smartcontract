@@ -83,8 +83,7 @@
 		"emulator": "127.0.0.1:3569",
 		"mainnet": "access.mainnet.nodes.onflow.org:9000",
 		"testing": "127.0.0.1:3569",
-		"testnet": "access.devnet.nodes.onflow.org:9000",
-		"testnet-rest": "https://rest-testnet.onflow.org"
+		"testnet": "https://rest-testnet.onflow.org"
 	},
 	"accounts": {
 		"emulator-account": {

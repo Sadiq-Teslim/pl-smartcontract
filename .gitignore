@@ -11,6 +11,13 @@
 # Flow emulator state
 flowdb/
 
+# Backend runtime data
+pl-backend/data/
+
+# Python
+__pycache__/
+*.pyc
+
 # Node
 node_modules/
 
